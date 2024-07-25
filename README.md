@@ -5,8 +5,8 @@ React Speech Recognition Transcriber is a modern web application leveraging the 
 
 # installation 
 - clone the repository
-- npm i (to install the dependencies)
-- npm run dev (to run the Application) 
+- run "npm i" (to install the dependencies)
+- run "npm run dev" (to run the Application) 
 
 Currently, two official plugins are available:
 
